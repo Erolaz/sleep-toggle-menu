@@ -1,0 +1,14 @@
+.DS_Store
+
+# Local build products
+*.app/
+*.zip
+*.png
+
+# Swift/Xcode artifacts
+.build/
+DerivedData/
+
+# Local temporary build output
+build/
+dist/
